@@ -1,0 +1,16 @@
+version: "3"
+
+vars:
+  NAME:
+  GLOB: "?_*.md"
+  DEFAULT: options
+
+includes:
+  pandoc: ~/.local/share/pandoc/Taskfile.yaml
+
+tasks:
+  default:
+    cmds:
+      - task: pandoc:docx
+      - soffice.exe --convert-to odt "{{._NAME}}.docx"
+      - soffice.exe --convert-to docx "{{._NAME}}.odt"

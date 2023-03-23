@@ -1,0 +1,8 @@
+CoolProp
+matplotlib
+pandas
+scipy
+jinja2-cli
+tabulate
+git+https://github.com/dawidsowa/my-python-modules.git
+toolz

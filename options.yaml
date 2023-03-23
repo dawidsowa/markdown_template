@@ -1,0 +1,29 @@
+defaults:
+  - default
+  - cite
+standalone: true
+metadata-file: data.json
+number-sections: true
+csl: ieee
+reference-doc: "custom-reference.docx"
+metadata:
+  lang: pl
+  mainfont: Times New Roman
+  colorlinks: false
+  linkReferences: true
+  numbersections: true
+  autoEqnLabels: true
+  tableEqns: true
+  # eqnBlockTemplate: "$$i$$"
+  # eqnBlockInlineMath: true
+  reference-section-title: Literatura
+  tableTitle: Tabela
+  figureTitle: Rys.
+  figPrefix: rys.
+  tblPrefix: tab.
+  titleDelim: "."
+  eqnPrefix: wz.
+  listings: true
+  panflute-filters:
+    - obsidian_to_include
+    - jinja

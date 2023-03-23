@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "b83d0a3e4387b0ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "293a06132224d886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c453e8b82be1cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Założenia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30ca9f265f317de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "530b3f6150ee2e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e455c1361e352136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca4cf91106563d1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4945a64ef0874837",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce559374aefb1b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38d3c8088394165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39174781a3548952",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_Założenia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc43a09772818772",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_Założenia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0f33e35ddb7c47d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54a25cdd5f469dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Założenia.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "c453e8b82be1cfb0",
+  "lastOpenFiles": [
+    "lu261802f0vwa.tmp",
+    "lu284922f0eyv.tmp",
+    "3_Kod.md",
+    "4_Wyniki.md",
+    "5_Podsumowanie.md",
+    "lu275082exmk2.tmp",
+    "Tekst.pdf~RF8b2bba3.TMP",
+    "lu1362evp0c.tmp",
+    "1_Wstęp.md",
+    "0_Abstract.md",
+    "tables/summary.md",
+    "tables/porównanie.md",
+    "tables/optimal.md",
+    "2_Założenia.md",
+    "schemat.png",
+    "Diagram bez tytułu(20).png",
+    "lu29256fi1nj.tmp",
+    "lu28760ei53s.tmp",
+    "lu21528a5m4n.tmp",
+    "lu25048a4w3b.tmp",
+    "lu22348a3y93.tmp",
+    "lu250649s23r.tmp",
+    "media/saturated.png",
+    "media/42bba4322839971fab9f16f9187ff3ae21600b08.png",
+    "media/76e8a8f2befbbbe5233ac94096c8eb1dd1ce174e.png",
+    "media/925f6260d2282d3de9e1bea47558dacf0b5aa58d.png",
+    "media/6424a137a52b1d26d7917c0e17e5ce97ad86b307.png",
+    "media/38498ce154a62a206c6d67806044a27c7e3ad07e.png",
+    "media/effect_of_superheat.png",
+    "media/optimal.png",
+    "5_Wyniki.md",
+    "5_Parametry.md",
+    "4_Założenia.md"
+  ]
+}
