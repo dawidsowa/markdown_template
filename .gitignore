@@ -1,9 +1,7 @@
 media/*
-*.pdf
-*.docx
 *.tmp
 !custom-reference.docx
 __pycache__
 build/*
 .task/*
-.~lock.*.pdf#
+.~lock.*#
