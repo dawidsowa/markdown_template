@@ -1,4 +1,4 @@
-media/*
+.media/*
 *.tmp
 !custom-reference.docx
 __pycache__
